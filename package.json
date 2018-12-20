@@ -1,0 +1,26 @@
+{
+  "name": "vegan-ipsum-api",
+  "version": "1.0.0",
+  "description": "This is the API ♥🐄🐑🐓🐟.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thomasfaller/vegan-ipsum-api.git"
+  },
+  "keywords": [
+    "Node",
+    "Express"
+  ],
+  "author": "Thomas Faller",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thomasfaller/vegan-ipsum-api/issues"
+  },
+  "homepage": "https://github.com/thomasfaller/vegan-ipsum-api#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
